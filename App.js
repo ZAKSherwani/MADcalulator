@@ -1,6 +1,6 @@
 import 'react-native-gesture-handler';
-import * as React from 'react';
-// import React,{useState} from 'react';
+// import * as React from 'react';
+import React,{useState} from 'react';
 // import { NavigationContainer } from '@react-navigation/native';
 import { Text, View, StyleSheet, Button, TouchableOpacity, handlePress } from 'react-native';
 // import { useState } from 'react';
